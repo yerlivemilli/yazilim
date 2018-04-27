@@ -8,7 +8,7 @@ Açık kaynaklı yerli ve milli yazılım tasarıları
 
   <details>
     <summary>
-        <code>javascript</code>, <code>çatı</code>, <code>web geliştirme</code>
+        <code>javascript</code>, <code>çatı</code>, <code>web geliştirme</code>, <code>duyarlı programlama</code>
     </summary>
     <br>
     <img width='150' alt='Otağ Logo' src='https://ilgilenio.github.io/Otag/img/otag.svg'>
@@ -28,8 +28,8 @@ Açık kaynaklı yerli ve milli yazılım tasarıları
 ### Arka uç
 
 - [ZN](https://github.com/znframework)
-<details>
+  <details>
     <summary>
-        <code>PHP</code>
+        <code>php</code>, <code>çatı</code>, <code>web geliştirme</code>
     </summary>
- </details>
+  </details>
